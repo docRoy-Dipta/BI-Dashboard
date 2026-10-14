@@ -23,7 +23,7 @@ Focuses on historical financial health comparing year-over-year performance metr
 * Includes time-series bar visualizations evaluating revenue vs. gross margin performance.
 * Features advanced slicing parameters categorized by Sales Representatives, regional channels, and brand filters.
 
-⚠️ *Replace with your image path below:*
+
 ![Executive Sales Overview](images/2.png)
 
 ---
@@ -34,7 +34,6 @@ Breaks down operational order quantities and financial movements across a dynami
 * Evaluates unique customer valuation metrics alongside average order spend ceilings.
 * Identifies clear peak commercial seasons and cyclical pattern shifts.
 
-⚠️ *Replace with your image path below:*
 ![Monthly Order Trends](images/3.png)
 
 ---
@@ -45,7 +44,6 @@ Highlights core revenue drivers by isolating the top fifteen highest-performing 
 * Isolates the Top 15 Individual Products (e.g., beverages, energy drinks, daily dairy essentials) dictating inventory movements.
 * Visualizes localized demographic splits highlighting key volume drivers.
 
-⚠️ *Replace with your image path below:*
 ![Top Customers and Items](images/4.png)
 
 ---
@@ -55,7 +53,6 @@ Tracks transaction performance categorized dynamically by client purchasing size
 * Categorizes transactional values via defined customer sizes (Large, Medium, and Small accounts).
 * Displays stacked structural bars tracking cumulative volumes month-by-month.
 
-⚠️ *Replace with your image path below:*
 ![Customer Category Analysis](images/5.png)
 
 ---
@@ -65,7 +62,6 @@ Analyzes business performance mapped explicitly across the different Emirates.
 * Identifies regional dominance with a definitive breakdown of regional percentages (e.g., Dubai, Sharjah, Abu Dhabi).
 * Evaluates cross-year volumetric variations to isolate emerging territory expansions.
 
-⚠️ *Replace with your image path below:*
 ![Geographic Breakdown](images/6.png)
 
 ---
@@ -75,7 +71,6 @@ Dives deep into inventory configurations to check item profitability vs. item vo
 * Ranks top performance matrices based explicitly on product margins (Beverages, Dairy, Tobacco, etc.).
 * Exposes critical systemic losses or low-margin dependencies hindering overall commercial scaling.
 
-⚠️ *Replace with your image path below:*
 ![Product Category Profitability](images/7.png)
 
 ---
@@ -85,7 +80,6 @@ An operational matrix tracking business-to-business behavior against strict dist
 * Evaluates performance variables across distinct channels (Wholesalers, Supermarkets, Groceries).
 * Includes a granular customer registry ledger matching explicit product categories against specific commercial buyers.
 
-⚠️ *Replace with your image path below:*
 ![Customer Buying Behavior](images/1.png)
 
 ---
