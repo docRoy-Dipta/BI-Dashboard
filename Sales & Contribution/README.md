@@ -12,5 +12,5 @@ Key Focus: High-level overview of North American sales performance, regional mon
 
 🖼️ Visualization Preview
 
-![Executive Summary Dashboard](BI-Dashboard/Sales%20%26%20Contribution/Dashboard%20Image.png)
+![Executive Summary Dashboard](BI-Dashboard/Sales%20%26%20Contribution/Image.png)
 
