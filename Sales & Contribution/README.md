@@ -12,4 +12,4 @@ Key Focus: High-level overview of North American sales performance, regional mon
 
 🖼️ Visualization Preview
 
-![Executive Sales Overview](images/Dashboard Image.png)
+![Executive Sales Overview](Dashboard Image.png)
