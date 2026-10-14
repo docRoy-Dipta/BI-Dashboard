@@ -1,96 +1,73 @@
 # FMCG & Retail Sales Analysis Dashboard
 
-A comprehensive, multi-page data analytics dashboard designed to monitor commercial sales performance, track key operational metrics, and uncover consumer purchasing behavior across the United Arab Emirates (UAE). 
+A multi-page interactive data analytics dashboard designed to monitor commercial sales performance, track operational metrics, and uncover consumer purchasing behavior across the United Arab Emirates (UAE).
 
-## 📊 Project Overview
-This project provides actionable business insights by consolidating complex sales data into clean, interactive visualizations. It assists stakeholders in evaluating monthly revenue trends, managing regional market share, optimizing product catalogs, and analyzing customer segmentation.
-
----
-
-## 🔑 Key Performance Indicators (KPIs) Captured
-* **Total Revenue / Sales:** Overall gross earnings generated across multiple years (2023–2025).
-* **Total Unique Orders & Line Items:** Granular breakdown of complete purchasing baskets and total transactional friction.
-* **Average Order Value (AOV):** The baseline amount spent per single transaction to understand customer purchasing elasticity.
-* **Total Gross Margin:** Net financial health evaluation tracked against individual product category groupings.
+## 📊 Core Performance Metrics
+* **Total Revenue:** 35.60M
+* **Total Line Items:** 112K
+* **Total Unique Orders:** 42K
+* **Average Order Value:** 318.74
 
 ---
 
-## 🖼️ Dashboard Walkthrough & Descriptions
+## 📈 Key Data Insights
 
-### 1. Executive Performance & Gross Profit Overview
-Focuses on historical financial health comparing year-over-year performance metrics across top-tier organizational segments.
-* Tracks annual sales metrics alongside unique voucher distribution volumes.
-* Includes time-series bar visualizations evaluating revenue vs. gross margin performance.
-* Features advanced slicing parameters categorized by Sales Representatives, regional channels, and brand filters.
+### 1. Regional Dominance (Geographic Mix)
+* **Dubai** represents the largest market share, driving **36.76%** of all order values.
+* **Abu Dhabi** (**19.41%**) and **Sharjah** (**18.63%**) serve as secondary strongholds. 
+* Smaller regions like Umm Al Quwain and Fujairah represent expansion opportunities with minimal current footprints.
 
-⚠️ *Replace with your image path below:*
+### 2. Category Performance & Margin Killers
+* **Beverages** are the primary commercial driver, securing the highest overall sales value and bringing in a commanding **622.55K** in total gross margins.
+* **Tobacco** presents a critical risk structure: while it sits as the 3rd highest product category by revenue volume, it suffers from severe negative returns, registering a net loss of **-128.8K** in gross margin.
+
+### 3. Product & Customer Concentration
+* The top revenue-generating item is **Boom Boom Energy Drink**, bringing in **3.7M** single-handedly, closely followed by Red Bull Energy Drink. 
+* **Abuhamed Trading** sits as the most valuable B2B client profile, generating **1.06M** in 2023 and expanding into 2024.
+
+### 4. Seasonality & Customer Segmentation
+* Sales patterns show sharp seasonal drops in **April** and **November/December**. Peak buying behavior consistently surges in **May** and **October**.
+* **Large enterprise accounts** make up the predictable baseline of monthly volumes, but **Medium accounts** show the highest transactional volatility month-over-month.
+
+---
+
+## 🖼️ Dashboard Gallery
+
+### Executive Overview & Financial Health
 ![Executive Sales Overview](images/2.png)
 
 ---
 
 ### 2. Monthly Trend Analysis & Customer Valuation
-Breaks down operational order quantities and financial movements across a dynamic monthly sequence.
-* Compares order frequencies and unique customer retention volumes month-over-month.
-* Evaluates unique customer valuation metrics alongside average order spend ceilings.
-* Identifies clear peak commercial seasons and cyclical pattern shifts.
-
-⚠️ *Replace with your image path below:*
 ![Monthly Order Trends](images/3.png)
 
 ---
 
 ### 3. Customer & Product Revenue Rankings
-Highlights core revenue drivers by isolating the top fifteen highest-performing transactional variables.
-* Profiles the Top 15 Business Customers based purely on gross spending configurations.
-* Isolates the Top 15 Individual Products (e.g., beverages, energy drinks, daily dairy essentials) dictating inventory movements.
-* Visualizes localized demographic splits highlighting key volume drivers.
-
-⚠️ *Replace with your image path below:*
 ![Top Customers and Items](images/4.png)
 
 ---
 
 ### 4. Segmented Value Distribution
-Tracks transaction performance categorized dynamically by client purchasing sizes.
-* Categorizes transactional values via defined customer sizes (Large, Medium, and Small accounts).
-* Displays stacked structural bars tracking cumulative volumes month-by-month.
-
-⚠️ *Replace with your image path below:*
 ![Customer Category Analysis](images/5.png)
 
 ---
 
 ### 5. Geographic Market Share & Order Distributions
-Analyzes business performance mapped explicitly across the different Emirates.
-* Identifies regional dominance with a definitive breakdown of regional percentages (e.g., Dubai, Sharjah, Abu Dhabi).
-* Evaluates cross-year volumetric variations to isolate emerging territory expansions.
-
-⚠️ *Replace with your image path below:*
 ![Geographic Breakdown](images/6.png)
 
 ---
 
 ### 6. Catalog Profitability & Product Category Health
-Dives deep into inventory configurations to check item profitability vs. item volume overheads.
-* Ranks top performance matrices based explicitly on product margins (Beverages, Dairy, Tobacco, etc.).
-* Exposes critical systemic losses or low-margin dependencies hindering overall commercial scaling.
-
-⚠️ *Replace with your image path below:*
 ![Product Category Profitability](images/7.png)
 
 ---
 
 ### 7. B2B Client Buying Patterns & Channel Dynamics
-An operational matrix tracking business-to-business behavior against strict distribution platforms.
-* Evaluates performance variables across distinct channels (Wholesalers, Supermarkets, Groceries).
-* Includes a granular customer registry ledger matching explicit product categories against specific commercial buyers.
-
-⚠️ *Replace with your image path below:*
 ![Customer Buying Behavior](images/1.png)
 
 ---
 
-## 🛠️ Tools & Technologies Used
-* **Data Visualization:** Power BI / Tableau *(Choose whichever tool you used to build this)*
-* **Data Formatting:** DAX, Power Query
-* **Documentation & Storage:** Git, GitHub, Markdown
+## 🛠️ Tech Stack
+* **BI Tool:** Power BI
+* **Data Processing:** Power Query & DAX
